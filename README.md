@@ -6,4 +6,8 @@ Create a an Landing Page Music.
 
 ## 📸 ScreenShots My Landing Page View
 
-![Alt text](/assets/img/imgGit/page_3.png)
+![Alt text](/day4_landing_page_movies/assets/img/imgGit/page_3.png)
+
+![Alt text](/day4_landing_page_movies/assets/img/imgGit/page_2.png)
+
+![Alt text](/day4_landing_page_movies/assets/img/imgGit/page_1.png)
