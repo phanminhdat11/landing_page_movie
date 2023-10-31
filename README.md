@@ -16,6 +16,6 @@ Create a an Landing Page Music.
 ![Alt text](/day4_landing_page_movies/assets/img/imgGit/page_1.png)
 
 
-## Video 
+## Video Into
 
-![Alt text](/day4_landing_page_movies/assets/img/imgGit/video_1.mov)
+<video src='/day4_landing_page_movies/assets/img/imgGit/video_1.mov' width=180/>
